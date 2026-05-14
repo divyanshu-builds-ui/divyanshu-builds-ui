@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=900&lines=Hey+%F0%9F%91%8B+I'm+Divyanshu+Gupta;Frontend-Focused+Full+Stack+Developer;Building+Modern+Web+Experiences;Future+Software+Engineer+%F0%9F%9A%80;Learning.+Building.+Shipping." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Divyanshu+Gupta;Frontend-Focused+Full+Stack+Developer;Building+Modern+Web+Experiences;Future+Software+Engineer+%F0%9F%9A%80;Learning.+Building.+Shipping." />
 
 <br/>
 
@@ -31,7 +31,11 @@
 
 ```yaml
 role: Frontend-Focused Full Stack Developer
-education: 12th Passout → B.Tech Next Year
+
+education:
+  - 12th Passout
+  - B.Tech Next Year
+
 currently:
   - Building Web Apps
   - Freelancing
@@ -93,9 +97,9 @@ Developer productivity and progress tracking web application.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshu-builds-ui&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshu-builds-ui&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-builds-ui&theme=midnight-purple&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=divyanshu-builds-ui&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -103,7 +107,7 @@ Developer productivity and progress tracking web application.
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-builds-ui&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-builds-ui&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -113,7 +117,7 @@ Developer productivity and progress tracking web application.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu-builds-ui&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshu-builds-ui&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -166,7 +170,7 @@ Developer productivity and progress tracking web application.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/divyanshu-builds-ui/divyanshu-builds-ui/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/divyanshu-builds-ui/divyanshu-builds-ui/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
