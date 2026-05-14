@@ -97,9 +97,9 @@ Developer productivity and progress tracking web application.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshu-builds-ui&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshu-builds-ui&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=divyanshu-builds-ui&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-builds-ui&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
