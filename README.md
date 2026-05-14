@@ -17,3 +17,4 @@
 ### 🖥️ System Status: Running on Linux
 ```bash
 divyanshu@linux:~$ neofetch
+👤 User: 12th Passout / Dev Architect💻 OS: GNU/Linux (Workflow optimized)🛠️ Focus: React, Node.js & AWS Infrastructure🎮 Side-Quests: Video Editing & Pro Gaming⚡ Current Task: Mastering AWS Q & Backend Optimization🛠️ Tech Stack Matrix (Animated)📂 Lab Report (Major Projects)Project NameStackMission🛒 E-Comm EngineReact + NodeModern shopping experience with 2 deployments.🛠️ Utility SuiteJS + PythonAutomating 3 core daily developer tasks.📈 Dev TrackerFull StackTracking personal growth & project sprints.🧠 AI CorePython + AWS QIntegrating AI into modern web workflows.📊 System Telemetry (GitHub Stats)🌐 Secure Connection
